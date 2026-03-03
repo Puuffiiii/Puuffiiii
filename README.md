@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Puuffiiii
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning CS at HCMUT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thanhnn2107@gmail.com
