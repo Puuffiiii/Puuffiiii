@@ -2,10 +2,9 @@ I'm **@Puuffiiii**, a Junior HCMUT-CS student based in Ho Chi Minh city, Viet Na
 
 I'm into Generative AI especially videos/voices related data types.
 
-I'm looking for an internship remote/on-site at HCMc if possible.
+<!---I'm looking for an internship remote/on-site at HCMc if possible.--->
 
 My main tech stack is Python, C++, JavaScript, Pytorch, Tensorflow, Panda, Numpy. My favorite tools are Obisidian + Samsung Notes on my tablet.
-
 
 **Fun fact:**
   - I use Arch btw!!!
